@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#03A9F4</color>
+    
+    <!-- Signal strength colors -->
+    <color name="signal_excellent">#4CAF50</color>
+    <color name="signal_good">#8BC34A</color>
+    <color name="signal_fair">#FFC107</color>
+    <color name="signal_poor">#FF5722</color>
+    
+    <!-- Standard colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    
+    <!-- Status colors -->
+    <color name="status_paired">#4CAF50</color>
+    <color name="status_not_paired">#757575</color>
+    <color name="status_scanning">#03A9F4</color>
+    <color name="status_error">#F44336</color>
+</resources>
